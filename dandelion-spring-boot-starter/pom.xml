@@ -5,7 +5,7 @@
 	<groupId>cane.brothers.spring</groupId>
 	<artifactId>dandelion-spring-boot-starter</artifactId>
 
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>dandelion-starter</name>

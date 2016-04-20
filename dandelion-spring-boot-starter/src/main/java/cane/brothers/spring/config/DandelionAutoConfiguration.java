@@ -39,7 +39,7 @@ public class DandelionAutoConfiguration {
 	protected static class DandeliobServletDefaultConfiguration {
 
 		@Bean
-		@ConditionalOnMissingBean
+		//@ConditionalOnMissingBean
 		public Filter dandelionFilter() {
 			return new DandelionFilter();
 		}
